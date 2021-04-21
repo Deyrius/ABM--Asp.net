@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial", "Parcial.csproj", "{F20F5EEA-F401-41D7-A4BF-D16CC53E3599}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "..\Biblioteca\Biblioteca.csproj", "{DE13E71E-97D7-4097-A892-E9C4336CE253}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8980919B-6699-45FD-BF6C-7828B87A5D61}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Proyectos\Herramientas programacion\WebADO\Web\DAL\AlumnoDAL.cs = ..\..\..\..\..\Proyectos\Herramientas programacion\WebADO\Web\DAL\AlumnoDAL.cs
+		..\..\..\..\..\Proyectos\Herramientas programacion\WebADO\Web\DAL\DAL.csproj = ..\..\..\..\..\Proyectos\Herramientas programacion\WebADO\Web\DAL\DAL.csproj
+		..\..\..\..\..\Proyectos\Herramientas programacion\WebADO\Web\DAL\datos.cs = ..\..\..\..\..\Proyectos\Herramientas programacion\WebADO\Web\DAL\datos.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{43F60CBC-C397-42CF-AD95-944EC00EB449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{9D4F5C61-CCCF-4D0C-B2A9-76E6F390D8FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20F5EEA-F401-41D7-A4BF-D16CC53E3599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20F5EEA-F401-41D7-A4BF-D16CC53E3599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20F5EEA-F401-41D7-A4BF-D16CC53E3599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20F5EEA-F401-41D7-A4BF-D16CC53E3599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE13E71E-97D7-4097-A892-E9C4336CE253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE13E71E-97D7-4097-A892-E9C4336CE253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE13E71E-97D7-4097-A892-E9C4336CE253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE13E71E-97D7-4097-A892-E9C4336CE253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F60CBC-C397-42CF-AD95-944EC00EB449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F60CBC-C397-42CF-AD95-944EC00EB449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F60CBC-C397-42CF-AD95-944EC00EB449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F60CBC-C397-42CF-AD95-944EC00EB449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4F5C61-CCCF-4D0C-B2A9-76E6F390D8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4F5C61-CCCF-4D0C-B2A9-76E6F390D8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4F5C61-CCCF-4D0C-B2A9-76E6F390D8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4F5C61-CCCF-4D0C-B2A9-76E6F390D8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DEF99E-B79F-4B66-A5FA-55E3BFDC6A87}
+	EndGlobalSection
+EndGlobal
